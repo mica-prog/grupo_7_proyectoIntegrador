@@ -4,6 +4,11 @@
     box-sizing: border-box;
  }
 
+ body{
+   background-color: #EFBCD5;
+   font-family: sans-serif;
+}
+
  h1{
     padding: 5px;
   }
@@ -65,7 +70,7 @@
 
 .pie-pagina{
    width: 100%;
-   background-color:darkgray;
+   background-color: white;
    background-size: cover;
 }
 
@@ -93,7 +98,7 @@
 }
 
 .pie-pagina .grupo1 .box h2 {
-   color: white;
+   color: black;
    margin-bottom: 25px;
    font-size: 20px;
 }
@@ -101,11 +106,11 @@
 .pie-pagina .grupo1 .box {
    margin-bottom: -30px;
    list-style: none;
-   color: aliceblue;
+   color: black;
 }
 
 .pie-pagina .grupo1 .box p {
-   color: aliceblue;
+   color: black;
    margin-bottom: 10px;
 }
 
@@ -123,10 +128,10 @@
 }
 
 .pie-pagina .grupo2{
-   background-color: black;
+   background-color: #3185FC;
    padding: 15px 10px;
    text-align: center;
-   color: aliceblue;
+   color: black;
 }
 
 .pie-pagina .grupo2 small {
