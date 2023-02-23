@@ -6,8 +6,6 @@ En este proyecto solo voy a trabajar yo, Micaela Marfil.
 Naci en Tierra del Fuego, Rio Grande en el 2003 (19 años). "Terminé" (capaz tengo que sacar algunas materias) la secuendaria el año pasado, salí con el titulo 'Tecnico en Informatica Personal y Profesional'.
 Me gusta mucho leer, seguramente por eso mi pagina se trata de una libreria y tambien porque no se me caia otra idea.
 
-
-
 <h1> Sitios de refetencias: </h1>
 
 *Eco Libros: https://libreriaecolibros.com/
@@ -24,6 +22,12 @@ Me gustaron cosas para aplicar mas en el futuro, algunos libros o diseños.
 
 *Tras los Pasos: https://www.traslospasos.com.ar/
 Su pagina principal me gusto por sus colores y la forma en que estan acomodadas los apartados.
+
+<h1> Paleta de colores: </h1>
+![palette](https://user-images.githubusercontent.com/113876589/220807555-89aaaa28-7ec5-41b6-8264-92071c969f20.png)
+
+<h1> Fuente </h1>
+sans-serif
 
 <h1> Tablero de trabajo </h1>
 <a href="https://trello.com/b/U5b2JFLW/proyecto-integrador">Trello</a> 
