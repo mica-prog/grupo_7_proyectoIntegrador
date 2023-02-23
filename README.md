@@ -26,4 +26,4 @@ Me gustaron cosas para aplicar mas en el futuro, algunos libros o diseños.
 Su pagina principal me gusto por sus colores y la forma en que estan acomodadas los apartados.
 
 <h1> Tablero de trabajo </h1>
-[trello](https://trello.com/b/U5b2JFLW/proyecto-integrador)
+<a href="https://trello.com/b/U5b2JFLW/proyecto-integrador">Trello</a> 
